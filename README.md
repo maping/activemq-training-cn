@@ -16,7 +16,6 @@
 
 - 主题：ActiveMQ 持久化介绍
   - KahaDB
-  - LevelDB
   - JDBC 
 - 演示：配置 JDBC Master Slave 高可用
 - 演示：配置 Network of Broker 高可用
