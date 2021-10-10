@@ -18,11 +18,11 @@
   - KahaDB
   - LevelDB
   - JDBC 
-- 演示：配置 Broker Master/Slave 高可用
+- 演示：配置 JDBC Master Slave 高可用
   - 启动与停止 ActiveMQ
   - ActiveMQ 目录功能介绍
   - ActiveMQ 管理控制台介绍
-- 演示：配置 Broker Cluster 高可用
+- 演示：配置 Network of Broker 高可用
 
 ## 第三天 高级特性介绍
 
